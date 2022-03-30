@@ -1,0 +1,1 @@
+import{N as e}from"./index.54114795.js";import{o as a,a as o,d as t,F as r,b as s}from"./vendor.c21289e2.js";const c=s("h1",null,"Escola",-1),u={setup(n){return(l,_)=>(a(),o(r,null,[t(e),c],64))}};export{u as default};
